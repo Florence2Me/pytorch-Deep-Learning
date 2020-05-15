@@ -149,9 +149,13 @@ This course concerns the latest techniques in deep learning and representation l
     <tr>
       <td rowspan="3" align="center"><a href="en/week07/07">⑦</a></td>
       <td rowspan="2">Lecture</td>
-      <td><a href="en/week07/07-1">Energy-Based Models</a>-</td>
+      <td><a href="en/week07/07-1">Energy-Based Models</a></td>
       <td rowspan="2">
         <a href="https://drive.google.com/open?id=1z8Dz1YtkOEJpU-gh5RIjORs3GGqkYJQa">🖥️</a>
+<<<<<<< HEAD
+=======
+        <a href="https://youtu.be/tVwV14YkbYs">🎥</a>
+>>>>>>> upstream/master
       </td>
     </tr>
     <tr><td><a href="en/week07/07-2">SSL, EBM</a></td></tr>
@@ -161,6 +165,61 @@ This course concerns the latest techniques in deep learning and representation l
       <td>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/10-autoencoder.ipynb">📓</a>
+        <a href="https://youtu.be/bggWQ14DD9M">🎥</a>
+      </td>
+    </tr>
+<!-- =============================== WEEK 8 ================================ -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week08/08">⑧</a></td>
+      <td rowspan="2">Lecture</td>
+      <td><a href="en/week08/08-1">Contrastive methods</a></td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/open?id=1Zo_PyBEO6aNt0GV74kj8MQL7kfHdIHYO">🖥️</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week08/08-2">Regularised latent</a></td></tr>
+    <tr>
+      <td rowspan="1">Practicum</td>
+      <td><a href="en/week08/08-3">Training VAEs</a></td>
+      <td>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/11-VAE.ipynb">📓</a>
+      </td>
+    </tr>
+<!-- =============================== WEEK 9 ================================ -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week09/09">⑨</a></td>
+      <td rowspan="2">Lecture</td>
+      <td><a href="en/week09/09-1"></a>-</td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/open?id=1wJRzhjSqlrSqEpX4Omagb_gdIkQ5f-6K">🖥️</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week09/09-2">Word model, GANs</a></td></tr>
+    <tr>
+      <td rowspan="1">Practicum</td>
+      <td><a href="en/week09/09-3">Training GANs</a></td>
+      <td>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/pytorch/examples/tree/master/dcgan">📓</a>
+      </td>
+    </tr>
+<!-- =============================== WEEK 10 =============================== -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week10/10">⑩</a></td>
+      <td rowspan="2">Lecture</td>
+      <td><a href="en/week10/10-1"></a>-</td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/open?id=16lsnDN2HIBTcRucbVKY5B_U16c0tNQhR">🖥️</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week10/10-2"></a>-</td></tr>
+    <tr>
+      <td rowspan="1">Practicum</td>
+      <td><a href="en/week10/10-3"></a>-</td>
+      <td>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/09%20-%20Controller%20learning.pdf">🖥️</a>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/14-truck_backer-upper.ipynb">📓</a>
       </td>
     </tr>
 <!-- =============================== WEEK 8 ================================ -->
